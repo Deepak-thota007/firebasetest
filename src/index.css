@@ -34,3 +34,7 @@ body {
   scrollbar-width: thin;
   scrollbar-color: #c9c5c5 #f1f1f1; /* Thumb and track color */
 }
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
